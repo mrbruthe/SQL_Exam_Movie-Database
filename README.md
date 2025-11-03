@@ -1,5 +1,3 @@
-# SQL_Exam_Movie-Database
-
 # 🎬 SQL Exams – TMDb Movie Database Analysis
 Welcome to my SQL exam project, built around The Movie Database (TMDb)! This repository showcases my ability to write and execute SQL queries to explore and analyze a rich dataset of movies, actors, production companies, and more.
 
